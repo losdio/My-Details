@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # You can enable or disable specific rules here
+    # For example:
+    # - camel_case_types
+    # - constant_identifier_names
+    # - no_leading_underscores_for_library_prefixes
+    # - prefer_single_quotes
